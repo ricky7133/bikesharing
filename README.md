@@ -14,5 +14,13 @@ The image below shows us that most usage of bikes during the week are used betwe
 
 ![This is an image](https://github.com/ricky7133/bikesharing/blob/main/Trip_by_Weekday.png)
 
+The images below show the top starting and top ending locations. Those locations are concentrated in mostly the same places. This tells us that users are using the bikes to get around the city where it may be hard to use other things such as a car.
+
+![This is an image](https://github.com/ricky7133/bikesharing/blob/main/Top_Starting_Locations.png)
+
+![This is an image](https://github.com/ricky7133/bikesharing/blob/main/Top_Ending_Locations.png)
 
 ### Summary
+After analyzing the data, we can see that the use of Citibike is popular in metropolitan areas with high density. This is very useful in New York because of how packed people are in a smmall place. Most people in this area use the bikes for commuting to and from work. Some additional visualizations that I would like to perform are:
+* Trip starting locations during the morning rush hour along with trip ending locations during the evening rush hour to see what neighborhoods are most active during those times.
+* I would also be interested in seeing a visualization that shows how often a day a subcsriber uses the bikes.
